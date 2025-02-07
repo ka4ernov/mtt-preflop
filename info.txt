@@ -1,7 +1,0 @@
-Database Password
-
-YjN8C7SLcGY1w1nt
-
-
-anon key
-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNudHhrY2tqYWZubGhmcGlzZWVzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzg5NTEwNzUsImV4cCI6MjA1NDUyNzA3NX0.ykG_VkaHvUFNdz3SDs3nsVl93elohPwj_t6ixF1N6MI
